@@ -1,1 +1,2 @@
-# ScuffedClickerPython
+Scuffed clicker
+literally scuffed
